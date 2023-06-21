@@ -1,0 +1,12 @@
+li{
+    font-size:60px;
+    display:inline;
+    padding:10px;
+    margin:10px;
+    color:gold;
+    
+}
+
+body{
+    background:linear-gradient(#000000,#808080);
+}
